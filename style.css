@@ -1,0 +1,69 @@
+.circle{
+    background-color: rgb(225, 59, 59);
+    width: 1050px;
+    height: 1000px;
+    position: relative;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 70px;
+    background-image: linear-gradient(red,yellow);
+
+}
+.box{
+    position: absolute;
+    width: 750px;
+    height: 650px;
+    background-color: rgb(247, 238, 238);
+    left: 14%;
+    margin-top: 16%;
+    box-shadow: 5px 8px;
+
+}
+.row{
+    position: absolute;
+    display: flex;
+    margin-top: 70px;
+    left: 9%;
+   
+}
+.align{
+padding: 15px;
+margin-left: 15px;
+
+}
+
+.design{
+    background-color: rgb(165, 165, 244);
+    
+    margin-top: 10px;
+    width: 300px;
+    height: 35px;
+    color: rgb(238, 240, 242);
+}
+.text{
+    text-align: center;
+}
+.input-style{
+    width: 290px;
+    height: 30px; 
+}
+.circle-1{
+    width: 30px;
+    height: 30px; 
+    background-color: rgb(227, 212, 212);
+    border-radius: 50%;
+    position: absolute;
+    left: 84%;
+    margin-top: 15%;
+    box-shadow: 5px 5px;
+}
+.part{
+   position: absolute;
+   left: 10px;
+   margin-top: 0%;
+   
+}
+
+   
+    
+   
